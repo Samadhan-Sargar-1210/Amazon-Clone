@@ -3,25 +3,11 @@
 A fully responsive Amazon Clone website built to replicate the look and feel of Amazon's homepage and shopping interface.
 👉 Live Demo: https://amazonclone-2023.netlify.app/
 
-✨ Features
-
-🔍 Search bar for quick product lookup
-
-📦 Product listing cards with images and details
-
-🛍️ Add to Cart functionality (UI-based)
-
-👤 Sign In / Sign Up pages (UI mockup)
-
-📱 Responsive design for mobile, tablet, and desktop
-
-⚡ Fast & lightweight hosted on Netlify
-
 🛠️ Tech Stack
 
-Frontend: HTML5, CSS3, JavaScript (or React if used)
+Frontend: HTML5, CSS3
 
-Styling: CSS / Tailwind / Bootstrap (adjust as per your project)
+Styling: CSS / Bootstrap
 
 Deployment: Netlify
 
